@@ -1,2 +1,3 @@
 # Module-1---Excel
 Excel Challenge Homework
+The document stated that we had to filter by Plays but when filtering by plays it does not impact the Outcome based Goals as it uses the entire column and it filters by the CountIfs. To filter by plays I filtered it and copied it into a new tab. I created the tabs based on that data and the graphs requested. To make sure I also created the Graphs based on the Complete data, refer to the tabs that say Completed at the end, and created graphs for those as well.
